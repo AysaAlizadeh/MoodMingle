@@ -1,0 +1,54 @@
+body {
+    background-color: #22668D;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+
+h1 {
+    color: #FFCC70;
+
+}
+
+Form {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 15px;
+    padding: 25px;
+    margin: 24px auto;
+    max-width: 400px;
+}
+
+.question {
+    margin-bottom: 15px;
+}
+
+label {
+    margin: 10px;
+    display: block;
+    font-weight: bold;
+}
+
+input[type="number"] {
+    width: 50%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+button {
+    background-color: #8ECDDD;
+    color: #fff;
+    border-radius: 5px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+#result {
+    margin-top: 20px;
+    font-weight: bold;
+}
